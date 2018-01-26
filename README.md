@@ -1,4 +1,4 @@
-# ethereal_mechanics
+# Ethereal Mechanics
 This new scientific approach based on the findings of R. Distinti, can be used to replace the current quantum and relativity theory at once. It is a scientifically substantiated approach of the behavior of charges, the building blocks of matter and life.
 
 ## The time has come
